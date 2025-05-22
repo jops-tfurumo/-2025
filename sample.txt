@@ -3,8 +3,5 @@
 そうですね
 
 say-A
-<<<<<<< HEAD
 
-=======
 mecha-mecha
->>>>>>> 543fa64 (Merge branch 'main' of https://github.com/jops-tfurumo/-2025)
